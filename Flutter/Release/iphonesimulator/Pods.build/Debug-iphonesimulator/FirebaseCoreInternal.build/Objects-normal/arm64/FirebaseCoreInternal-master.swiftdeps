@@ -1,0 +1,29 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "c5be14b9193db71c862f0033a72789f69f4379c4b402b319baf5518290545f80"
+build_start_time: [1707213696, 79007148]
+build_end_time: [1707213735, 167018890]
+inputs:
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : [1707212898, 541720867]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : [1707212898, 546694278]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift"
+  : [1707212898, 556054353]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : [1707212898, 558147907]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : [1707212898, 559438228]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : [1707212898, 564234256]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : [1707212898, 543176174]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : [1707212898, 538259267]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : [1707212898, 567234516]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : [1707212898, 561651229]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : [1707212898, 544465303]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : [1707212898, 550589561]

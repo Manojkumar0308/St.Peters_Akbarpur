@@ -1,0 +1,35 @@
+"/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Transition/DKPhotoGalleryInteractiveTransition.swift":
+  object: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoGalleryInteractiveTransition.o"
+  diagnostics: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoGalleryInteractiveTransition.dia"
+  dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoGalleryInteractiveTransition.d"
+  swift-dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoGalleryInteractiveTransition.swiftdeps"
+"/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/PDFPreview/DKPDFView.swift":
+  object: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPDFView.o"
+  diagnostics: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPDFView.dia"
+  swift-dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPDFView.swiftdeps"
+  dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPDFView.d"
+"/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/DKPhotoGallery.swift":
+  dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoGallery.d"
+  diagnostics: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoGallery.dia"
+  object: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoGallery.o"
+  swift-dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoGallery.swiftdeps"
+"/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/DKPhotoGalleryContentVC.swift":
+  swift-dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoGalleryContentVC.swiftdeps"
+  object: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoGalleryContentVC.o"
+  diagnostics: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoGalleryContentVC.dia"
+  dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoGalleryContentVC.d"
+"/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/ImagePreview/DKPhotoBaseImagePreviewVC.swift":
+  dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoBaseImagePreviewVC.d"
+  object: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoBaseImagePreviewVC.o"
+  swift-dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoBaseImagePreviewVC.swiftdeps"
+  diagnostics: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoBaseImagePreviewVC.dia"
+"/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/DKPhotoBasePreviewVC.swift":
+  diagnostics: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoBasePreviewVC.dia"
+  dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoBasePreviewVC.d"
+  object: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoBasePreviewVC.o"
+  swift-dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoBasePreviewVC.swiftdeps"
+"/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/DKPhotoContentAnimationView.swift":
+  swift-dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoContentAnimationView.swiftdeps"
+  dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoContentAnimationView.d"
+  object: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoContentAnimationView.o"
+  diagnostics: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoContentAnimationView.dia"

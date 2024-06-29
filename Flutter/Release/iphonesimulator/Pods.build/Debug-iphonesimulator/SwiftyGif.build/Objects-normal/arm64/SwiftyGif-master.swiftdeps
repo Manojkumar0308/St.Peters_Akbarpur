@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "ef3742f62026636ff9ad39c59de3eebe71a798a80b43174fcd9b9bdc871d3681"
+build_start_time: [1707213583, 282260894]
+build_end_time: [1707213599, 212152004]
+inputs:
+  "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/SwiftyGif/SwiftyGif/NSImage+SwiftyGif.swift": [1707212900, 342203617]
+  "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/SwiftyGif/SwiftyGif/NSImageView+SwiftyGif.swift": [1707212900, 351209163]
+  "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/SwiftyGif/SwiftyGif/ObjcAssociatedWeakObject.swift": [1707212900, 343723297]
+  "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/SwiftyGif/SwiftyGif/SwiftyGifManager.swift": [1707212900, 350134849]
+  "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/SwiftyGif/SwiftyGif/UIImage+SwiftyGif.swift": [1707212900, 345324277]
+  "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/SwiftyGif/SwiftyGif/UIImageView+SwiftyGif.swift": [1707212900, 340858936]

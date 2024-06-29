@@ -1,0 +1,30 @@
+"/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKImagePickerController/Sources/DKImageDataManager/DKImageDataManager.swift":
+  dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImageDataManager.d"
+  object: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImageDataManager.o"
+  diagnostics: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImageDataManager.dia"
+  swift-dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImageDataManager.swiftdeps"
+"/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKImagePickerController/Sources/Extensions/DKImageExtensionGallery.swift":
+  dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImageExtensionGallery.d"
+  object: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImageExtensionGallery.o"
+  swift-dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImageExtensionGallery.swiftdeps"
+  diagnostics: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImageExtensionGallery.dia"
+"/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/DKImageAssetExporter.swift":
+  object: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImageAssetExporter.o"
+  diagnostics: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImageAssetExporter.dia"
+  dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImageAssetExporter.d"
+  swift-dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImageAssetExporter.swiftdeps"
+"/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/DKImageExtensionController.swift":
+  dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImageExtensionController.d"
+  swift-dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImageExtensionController.swiftdeps"
+  diagnostics: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImageExtensionController.dia"
+  object: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImageExtensionController.o"
+"/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKImagePickerController/Sources/DKImageDataManager/DKImageGroupDataManager.swift":
+  dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImageGroupDataManager.d"
+  swift-dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImageGroupDataManager.swiftdeps"
+  diagnostics: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImageGroupDataManager.dia"
+  object: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImageGroupDataManager.o"
+"/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKImagePickerController/Sources/DKImageDataManager/DKImageBaseManager.swift":
+  dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImageBaseManager.d"
+  diagnostics: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImageBaseManager.dia"
+  swift-dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImageBaseManager.swiftdeps"
+  object: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImageBaseManager.o"

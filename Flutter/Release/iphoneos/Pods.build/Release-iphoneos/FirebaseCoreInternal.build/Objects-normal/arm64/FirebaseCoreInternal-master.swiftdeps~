@@ -1,0 +1,29 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "9a190f08cc22c3d4234475df0e82b1e23dcd6cc6f7b31f04240f69d18408a942"
+build_start_time: [1707213231, 337846994]
+build_end_time: [1707213231, 410039901]
+inputs:
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : !dirty [1707212898, 541720867]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : !dirty [1707212898, 546694278]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift"
+  : !dirty [1707212898, 556054353]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : !dirty [1707212898, 558147907]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : !dirty [1707212898, 559438228]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : !dirty [1707212898, 564234256]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : !dirty [1707212898, 543176174]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : !dirty [1707212898, 538259267]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : !dirty [1707212898, 567234516]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : !dirty [1707212898, 561651229]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : !dirty [1707212898, 544465303]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : !dirty [1707212898, 550589561]

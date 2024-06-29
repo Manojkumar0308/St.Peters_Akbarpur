@@ -1,0 +1,35 @@
+"/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/DKPhotoGalleryScrollView.swift":
+  diagnostics: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoGalleryScrollView.dia"
+  object: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoGalleryScrollView.o"
+  dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoGalleryScrollView.d"
+  swift-dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoGalleryScrollView.swiftdeps"
+"/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Transition/DKPhotoGalleryTransitionPresent.swift":
+  swift-dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoGalleryTransitionPresent.swiftdeps"
+  object: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoGalleryTransitionPresent.o"
+  dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoGalleryTransitionPresent.d"
+  diagnostics: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoGalleryTransitionPresent.dia"
+"/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Transition/DKPhotoGalleryTransitionController.swift":
+  dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoGalleryTransitionController.d"
+  object: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoGalleryTransitionController.o"
+  diagnostics: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoGalleryTransitionController.dia"
+  swift-dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoGalleryTransitionController.swiftdeps"
+"/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Transition/DKPhotoGalleryTransitionDismiss.swift":
+  diagnostics: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoGalleryTransitionDismiss.dia"
+  dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoGalleryTransitionDismiss.d"
+  swift-dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoGalleryTransitionDismiss.swiftdeps"
+  object: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoGalleryTransitionDismiss.o"
+"/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Resource/DKPhotoGalleryResource.swift":
+  swift-dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoGalleryResource.swiftdeps"
+  object: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoGalleryResource.o"
+  diagnostics: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoGalleryResource.dia"
+  dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoGalleryResource.d"
+"/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/ImagePreview/DKPhotoImageDownloader.swift":
+  dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoImageDownloader.d"
+  diagnostics: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoImageDownloader.dia"
+  swift-dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoImageDownloader.swiftdeps"
+  object: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoImageDownloader.o"
+"/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/DKPhotoGalleryItem.swift":
+  object: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoGalleryItem.o"
+  dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoGalleryItem.d"
+  diagnostics: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoGalleryItem.dia"
+  swift-dependencies: "/Users/mac/Desktop/task/projects/st.peter's/Flutter/Release/iphonesimulator/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/arm64/DKPhotoGalleryItem.swiftdeps"

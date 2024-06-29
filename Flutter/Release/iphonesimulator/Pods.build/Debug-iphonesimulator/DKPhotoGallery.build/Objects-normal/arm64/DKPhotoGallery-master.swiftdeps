@@ -1,0 +1,41 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "e1748b9b0f33aeb910b58d9335f2492af0f693634c2767f6f26f842e2cc7c58f"
+build_start_time: [1707213599, 403810024]
+build_end_time: [1707213629, 48601150]
+inputs:
+  "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/DKPhotoGallery.swift": [1707212898, 91554880]
+  "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/DKPhotoGalleryContentVC.swift": [1707212898, 94554901]
+  "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/DKPhotoGalleryItem.swift": [1707212898, 99976539]
+  "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/DKPhotoGalleryScrollView.swift": [1707212898, 137876272]
+  "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/DKPhotoIncrementalIndicator.swift": [1707212898, 96295356]
+  "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/DKPhotoPreviewFactory.swift": [1707212898, 75566291]
+  "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/DKPhotoBasePreviewVC.swift": [1707212898, 108087778]
+  "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/DKPhotoContentAnimationView.swift": [1707212898, 133869171]
+  "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/DKPhotoProgressIndicator.swift": [1707212898, 134926795]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/DKPhotoProgressIndicatorProtocol.swift"
+  : [1707212898, 129894733]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/ImagePreview/DKPhotoBaseImagePreviewVC.swift"
+  : [1707212898, 125457048]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/ImagePreview/DKPhotoImageDownloader.swift"
+  : [1707212898, 111841678]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/ImagePreview/DKPhotoImagePreviewVC.swift"
+  : [1707212898, 115413427]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/ImagePreview/DKPhotoImageUtility.swift"
+  : [1707212898, 116466045]
+  "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/ImagePreview/DKPhotoImageView.swift": [1707212898, 123499393]
+  "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/PDFPreview/DKPDFView.swift": [1707212898, 131616115]
+  "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/PDFPreview/DKPhotoPDFPreviewVC.swift": [1707212898, 132597923]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/PlayerPreview/DKPhotoPlayerPreviewVC.swift"
+  : [1707212898, 106234550]
+  "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/PlayerPreview/DKPlayerView.swift": [1707212898, 103758096]
+  "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/QRCode/DKPhotoQRCodeResultVC.swift": [1707212898, 128703594]
+  "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/QRCode/DKPhotoWebVC.swift": [1707212898, 127207279]
+  "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Resource/DKPhotoGalleryResource.swift": [1707212898, 213546037]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Transition/DKPhotoGalleryInteractiveTransition.swift"
+  : [1707212898, 83295822]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Transition/DKPhotoGalleryTransitionController.swift"
+  : [1707212898, 82033395]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Transition/DKPhotoGalleryTransitionDismiss.swift"
+  : [1707212898, 90431213]
+  ? "/Users/mac/Desktop/task/projects/st.peter's/ios/Pods/DKPhotoGallery/DKPhotoGallery/Transition/DKPhotoGalleryTransitionPresent.swift"
+  : [1707212898, 84535837]
